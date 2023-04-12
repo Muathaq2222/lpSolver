@@ -4,13 +4,13 @@ The software needs the following inputs from the user:
 
 Variables:
 
-	Enter all the variables, separated by comma. The variable type is fixed to non-negative 
+	x,u 
 
 variables.
 	
 Objective Type:
 
-	Select the objective type.
+	minimize
 	
 Objective Function:
 
